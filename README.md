@@ -1,2 +1,2 @@
 # Text-Analyzer
-A simple Text word and character counter.
+A simple word and character counter.
